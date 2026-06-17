@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 Visit my website: <https://effessdev.github.io>  
-Check out my brand new project: <https://mmry-dump.vercel.app>
+Check out my brand new project: <https://mmry-dump.vercel.app>  
+My Godot game: <https://effessdev.itch.io/the-stellar-expedition>  
+My Unity game: <https://effessdev.itch.io/apple-jump>
 
 <!--
 **faseehfs-dev/faseehfs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
