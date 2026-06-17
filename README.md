@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Visit my website: <https://effessdev.github.io>  
 Check out my brand new project: <https://mmry-dump.vercel.app>  
 My Godot game: <https://effessdev.itch.io/the-stellar-expedition>  
 My Unity game: <https://effessdev.itch.io/apple-jump>
