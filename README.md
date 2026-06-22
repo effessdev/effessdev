@@ -4,7 +4,7 @@
 - My Godot game (play on browser available): <https://effessdev.itch.io/the-stellar-expedition>  
 - My Unity game: <https://effessdev.itch.io/apple-jump>
 
-See pinned repositories (below) to see more cool projects!
+See pinned repositories (below) or go to the Repositories tab to see more cool projects!
 
 <!--
 **faseehfs-dev/faseehfs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
