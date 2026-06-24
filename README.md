@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Check out my brand new project: <https://mmry-dump.vercel.app>  
+- Check out my brand new project: <https://mmorganized.vercel.app>  
 - My Godot game (play on browser available): <https://effessdev.itch.io/the-stellar-expedition>  
 - My Unity game: <https://effessdev.itch.io/apple-jump>
 
