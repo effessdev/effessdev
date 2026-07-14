@@ -6,11 +6,11 @@ I am Faseeh. I build apps, games, and websites, and program MCUs and IoT devices
 
 ### [MmOrganized](https://mmorganized.vercel.app)
 
-An AI powered app for memory capture and recall. Made with Next.js.
+An AI-powered app for capturing and recalling facts. Made with Next.js. You will get some free credits to try it out for the first time.
 
 ### [ghsync-gui](https://github.com/effessdev/ghsync-gui)
 
-A GUI app made with Electron to backup GitHub repositories using a Personal Access Token (PAT).
+A GUI app built with Electron to back up GitHub repositories using a Personal Access Token (PAT).
 
 ### [The Stellar Expedition](https://effessdev.itch.io/the-stellar-expedition)
 
