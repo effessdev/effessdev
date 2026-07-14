@@ -2,7 +2,7 @@
 
 I am Faseeh. I build apps, games, and websites, and program MCUs and IoT devices.
 
-## Top Projects
+## Top Unique Projects
 
 ### [MmOrganized](https://mmorganized.vercel.app)
 
