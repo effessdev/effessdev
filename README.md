@@ -22,7 +22,7 @@ This is an older game that I built with Unity. It's only available on Windows :(
 
 ## My Skills
 
-HTML, CSS, JavaScript, TypeScript, React, Next.js (App Router), Framer Motion, Vercel AI SDK, Tailwind, Prisma ORM, Drizzle ORM, NextAuth.js, Auth.js, Better Auth, Shadcn UI, Tanstack Query, React Hook Form, Zod, PostgreSQL, MySQL, Electron, Arduino, ESP-IDF, Godot, Unity, C, C++, CMake, C#, GDScript, Python, Tkinter, Pygame, SFML, Vercel CI/CD, Vercel Blob, Neon Postgres, Linux, Git, GitHub.
+HTML, CSS, JavaScript, TypeScript, React, Next.js (App Router), Framer Motion, Vercel AI SDK, Tailwind, Prisma ORM, Drizzle ORM, NextAuth.js, Auth.js, Better Auth, Shadcn UI, Tanstack Query, React Hook Form, Zod, Bootstrap, PostgreSQL, MySQL, Electron, Arduino, ESP-IDF, Godot, Unity, C, C++, CMake, C#, GDScript, Python, WebSockets, Tkinter, Pygame, SFML, Vercel CI/CD, Vercel Blob, Neon Postgres, Linux, Git, GitHub.
 
 ## Other Links
 
