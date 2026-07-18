@@ -20,6 +20,10 @@ The best game I have created so far. Available on Browser, Windows, Linux, and A
 
 This is an older game that I built with Unity. It's only available on Windows :(
 
+## My Skills
+
+HTML, CSS, JavaScript, TypeScript, React, Next.js (App Router), Framer Motion, Vercel AI SDK, Tailwind, Prisma ORM, Drizzle ORM, NextAuth.js, Auth.js, Better Auth, Shadcn UI, Tanstack Query, React Hook Form, Zod, PostgreSQL, MySQL, Electron, Godot, Unity, C, C++, C#, GDScript, Python, Tkinter, Pygame, SFML, Vercel CI/CD, Vercel Blob, Neon Postgres, Git.
+
 ## Other Links
 
 - [Itch.io](https://effessdev.itch.io)
