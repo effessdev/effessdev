@@ -2,7 +2,7 @@
 
 I am Faseeh. I build apps, games, and websites, and program MCUs and IoT devices.
 
-## Top Unique Projects
+## Featured
 
 ### [MmOrganized](https://mmorganized.vercel.app)
 
@@ -15,14 +15,6 @@ A GUI app built with Electron to back up GitHub repositories using a Personal Ac
 ### [The Stellar Expedition](https://effessdev.itch.io/the-stellar-expedition)
 
 The best game I have created so far. Available on Browser, Windows, Linux, and Android. It's made with Godot!
-
-### [Apple Jump](https://effessdev.itch.io/apple-jump)
-
-This is an older game that I built with Unity. It's only available on Windows :(
-
-## My Skills
-
-React, Next.js (App Router), TypeScript, Framer Motion, Vercel AI SDK, Tailwind, Prisma ORM, Drizzle ORM, Auth.js (NextAuth.js), Better Auth, Shadcn UI, TanStack Query, Zod, Electron, Arduino, ESP-IDF, Godot, Unity, C, C++, CMake, C#, GDScript, Python, WebSockets, Vercel CI/CD, Vercel Blob.
 
 ## Other Links
 
