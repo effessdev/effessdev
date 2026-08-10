@@ -14,7 +14,7 @@ A GUI app built with Electron to back up GitHub repositories using a Personal Ac
 
 ### [The Stellar Expedition](https://effessdev.itch.io/the-stellar-expedition)
 
-The best game I have created so far. Available on Browser, Windows, Linux, and Android. It's made with Godot!
+This is a Godot game that I made a few years ago. Available on Browser, Windows, Linux, and Android.
 
 ## Other Links
 
