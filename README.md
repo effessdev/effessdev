@@ -23,8 +23,4 @@ This is a Godot game that I made a few years ago. Available on Browser, Windows,
 
 ## Latest
 
-I am currently working on a Python package called [ReptClip](https://github.com/effessdev/reptclip) that I found incredibly useful. Pull requests are welcome if you are interested. Run the command below to try it out:
-
-```bash
-pip install reptclip
-```
+I am currently working on an ESP-IDF project to learn embedded systems development. [Click here](https://github.com/effessdev/smart-led) to view the repo.
