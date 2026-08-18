@@ -23,4 +23,4 @@ This is a Godot game that I made a few years ago. Available on Browser, Windows,
 
 ## Latest
 
-I am currently working on an ESP-IDF project to learn embedded systems development. [Click here](https://github.com/effessdev/smart-led) to view the repo.
+I am new to embedded systems. So I am currently working on an ESP-IDF project to learn it. [Click here](https://github.com/effessdev/smart-led) to view the repo.
