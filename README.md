@@ -18,9 +18,9 @@ This is a Godot game that I made a few years ago. Available on Browser, Windows,
 
 ## Other Links
 
+- [Personal Website](https://effessdev.github.io)
 - [Repositories](https://github.com/effessdev?tab=repositories)
-- [Games (itch.io)](https://effessdev.itch.io)
-- [YouTube](https://www.youtube.com/@effessdev)
+- [itch.io (Games)](https://effessdev.itch.io)
 
 ## Latest
 
